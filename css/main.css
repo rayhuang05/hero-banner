@@ -25,7 +25,7 @@ body {
 
 .banner-content {
   position: absolute;
-  bottom: 0;
+  bottom: 0.5;
   width: 100%;
   max-width: 45rem;
   left: 50%;
